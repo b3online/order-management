@@ -2,5 +2,5 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: javawebapp
-  namespace: prod
+  namespace: prod123
 
